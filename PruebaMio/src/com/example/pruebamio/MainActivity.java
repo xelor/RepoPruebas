@@ -12,7 +12,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         
-        Toast.makeText(getApplicationContext(), "Hola, he cambiado la línea", Toast.LENGTH_SHORT).show();
+        Toast.makeText(getApplicationContext(), "Hola, he cambiado la línea otra vez", Toast.LENGTH_SHORT).show();
     }
 
 
